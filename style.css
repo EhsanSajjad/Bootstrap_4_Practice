@@ -1,0 +1,10 @@
+.myClass {
+  background-color: pink;
+  border: 2px solid black;
+}
+.myBox {
+  width: 100px;
+  height: 100px;
+  display: inline-block;
+  border: 10px solid red;
+}
