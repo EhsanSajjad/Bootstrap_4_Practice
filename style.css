@@ -8,3 +8,21 @@
   display: inline-block;
   border: 10px solid red;
 }
+
+.my-image {
+  width: 300px;
+}
+
+.myCard {
+  width: 300px;
+  background-color: rgb(218, 252, 212);
+}
+
+.custom-navIMG {
+  width: 20px;
+}
+
+.menu {
+  background-color: pink;
+  padding: 10px;
+}
